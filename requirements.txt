@@ -1,0 +1,6 @@
+osmnx
+folium
+numpy
+shapely
+geopy
+IPython
